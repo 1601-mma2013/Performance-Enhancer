@@ -10,25 +10,25 @@ Project Name – UI Controller
 
 1. objectives
 
-Let the user have the ability to personalise any visual asset displayed on screen to their preferred choice.
+To let the user get the best performance of the pc they are using
 
 **b. Audit**
 
 1.     Business and marketing plans
 
-To display the frame rate of the sketch, the software also allows the user to change the colour of the display, it records the data flow through the software, user can input data to achieve different outcomes through the textfield. 
+Unlock the full potential of the pc. Most hard ware are softlocked to perform an action only with limited hardware, this will let the processes run faster using full hardware available
 
 2.     branding strategy
 
-Personalizer- the ability to change the background colour when you play with the UI component
+optimiser- the ability to change the performance status 
 
 3.     market/field research 
 
-Rainmeter– a desktop personalizer tool for the user to customise their own personaldesktop, Desktop Theme Manager
+Rainmeter , unpark
 
 4.     product portfolio plans 
 
-To pick the background colour of the sketch, write on the sketch using the textfield UI component, calculate the frame rate displayed. 
+calculate the frame rate displayed  
 
 5.     competitors 
 
@@ -42,7 +42,7 @@ Xbox, Playstationetc.
 
 1.     product{project} vision 
 
-To be able to personalise any visual asset displayed on screen to their preferred choice. 
+To be able to unlock the full potential of the pc. 
 
 2.     Risk
 
@@ -64,7 +64,7 @@ c) Completely customisable  
 
 5.     users 
 
-We tend tomainly concentrate on gamers as they will need this to make their game more vibrant to have the desired experience they always wanted, (high res gamers on low power game engine). 
+the users are between 18-28 .  
 
 **d. User Interviews & observations**
 
@@ -72,19 +72,19 @@ Understand user needs and behavior and describe it. Find various aspect of audie
 
 1.     Users
 
-Everyone
+Aged between 18 -28
 
 2.     potential users
 
-Gamers and multimedia students 
+multimedia students, and overclockers 
 
 3.     behaviors
 
-Wants perfection in fps and details. 
+Wants the best of the hardware they paid so much for
 
 4.     attitudes
 
-gets frustrated when the quality is not up to mark 
+gets frustrated when the quality of the performance of the hardware is not up to the mark  
 
 5.     aptitudes
 
