@@ -114,11 +114,11 @@ To make the program run smoothly with no delay in processing.
 
 Name - Adam
 
-Age - 21
+Age - 19
 
-Gender - Male
+Gender - Male 
 
-Occupation– Student
+Occupation– College Student
 
 Faculty – Faculty of Creative Multimedia
 
@@ -128,7 +128,7 @@ Favourite quote - “Have patience. All things are difficult before they become 
 
 Bio 
 
-Adam is a student at Multimedia University. He uses his computer to study and to complete his various assignments. He is interested in knowing the capabilities of his computer so that he can use it to its fullest potential. 
+Most of the secondary school student still new with this apps  in this era, their also newly introduced this application. Most of them didn't know the existence of these kind of apps until they go to college, at the time they need to maintain their laptop capability for the sake of their assignment. For example, Adam is a student at Multimedia University. He uses his computer to study and to complete his various assignments. He is interested in knowing the capabilities of his computer so that he can use it to its fullest potential. 
 
 **1. Patterns in user and customer behaviours**
 
@@ -136,16 +136,19 @@ Pattern user
 
                                
 
-Lazy                          hardworking
+Lazy                           hardworking
 
   
+Sleeps early                     Sleeps late
 
-Sleeps early               Sleeps late
+
+Not Discover                    Like to Discover New items
+
 
 
 **Customer behaviour** 
 
-Positive person. 
+Positive person, have initiative to know more about their PC condition, space, ram. 
 
 **2. Attitudes**
 
@@ -161,11 +164,11 @@ Wants PC to run smoothly without any glitch.
 Let the user have the ability to personalise any visualasset displayed on screen to their preferred choice.
 To let the user know the fullest potential of theircomputer.
 
-5.Environments
+**5.Environments**
 
-At home in the user’s room
+At home in the user’s room, the user will always keep update about the capability of their pc no matter to play games or doing their assignment.
 
-In the classroom.
+In the classroom, the technician will keep update on the stability of the lab pc for student and lecture used.
 
 **6. Tools**
 
@@ -173,21 +176,21 @@ Computer – Processing, github
 
 **7. Challenges**
 
-To make the program run smoothly with no delay inprocessing. 
+To make the program run smoothly with no delay in the application.
 
 
 
 **b. Other Models**
 
-Name - Jane
+Name - Secondary School Student and College Student.
 
-Age - 21
+Age - 15 years old to 18 years old.
 
-Gender - Female
+Gender - Male and Female
 
-Occupation– Student
+Occupation–  Student
 
-Faculty – Faculty of Computing and Informatics 
+Faculty – Secondary School 
 
 Status – Single
 
