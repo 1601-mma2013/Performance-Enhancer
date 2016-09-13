@@ -16,7 +16,7 @@ To let the user get the best performance of the pc they are using
 
 1.     Business and marketing plans
 
-Unlock the full potential of the pc. Most hard ware are softlocked to perform an action only with limited hardware, this will let the processes run faster using full hardware available
+Unlock the full potential of the pc. Most hardware are softlocked to perform an action only with limited hardware, this will let the processes run faster using full hardware available
 
 2.     branding strategy
 
