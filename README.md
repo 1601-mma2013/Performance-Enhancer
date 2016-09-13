@@ -128,7 +128,7 @@ Favourite quote - “Have patience. All things are difficult before they become 
 
 Bio 
 
-Most of the secondary school student still new with this apps  in this era, their also newly introduced this application. Most of them didn't know the existence of these kind of apps until they go to college, at the time they need to maintain their laptop capability for the sake of their assignment. For example, Adam is a student at Multimedia University. He uses his computer to study and to complete his various assignments. He is interested in knowing the capabilities of his computer so that he can use it to its fullest potential. 
+Adam is a student at Multimedia University. He uses his computer to study and to complete his various assignments. He is interested in knowing the capabilities of his computer so that he can use it to its fullest potential. 
 
 **1. Patterns in user and customer behaviours**
 
@@ -142,7 +142,7 @@ Lazy                           hardworking
 Sleeps early                     Sleeps late
 
 
-Not Discover                    Like to Discover New items
+Doesn't like to discover new things                    Likes to discover new things
 
 
 
@@ -166,9 +166,9 @@ To let the user know the fullest potential of theircomputer.
 
 **5.Environments**
 
-At home in the user’s room, the user will always keep update about the capability of their pc no matter to play games or doing their assignment.
+At home in the user’s room, the user will always be updated about the capability of their pc when they choose to play games or do their assignment.
 
-In the classroom, the technician will keep update on the stability of the lab pc for student and lecture used.
+In the classroom, the technician will be updated on the stability of the lab pc for student and lecture use. 
 
 **6. Tools**
 
