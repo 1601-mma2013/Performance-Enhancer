@@ -36,7 +36,7 @@ Steam Game Overlay, Overwolf 
 
 6.     relevant technologies 
 
-Xbox, Playstationetc.
+Xbox, Playstation etc.
 
 **c. Stakeholder Interviews**
 
