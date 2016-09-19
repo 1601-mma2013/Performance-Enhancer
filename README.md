@@ -1,6 +1,16 @@
-Project Name – UI Controller
+Group members
 
-**I. Analysis**
+•	Chirag Suresh 1132701660
+
+•	Daniel Lim Chern Liang 1132701802
+
+•	Siti Fathimah Muhiddin 1141125180
+
+
+
+Project Name – UI Controller 
+
+*I. Analysis*
 
  
 
@@ -108,7 +118,7 @@ To make the program run smoothly with no delay in processing.
 
  
 
-**2. Modeling**
+*2. Modeling*
 
 **a. Personas**
 
@@ -227,5 +237,82 @@ Classroom, lab
 **3. Artifacts**
 
 Rainmeter,Desktop Theme Manager
+
+*II. Synthesis*
+
+*3. Requirements Definition*
+
+**a. Context Scenarios**
+
+The user gets to know the performance of his pc. 
+The user can use the UI controller to maximize the performance of his pc.  
+
+**b. Requirements**
+
+1.	Functional and data needs – The pc’s hardware specification and its full run potential compared to the current run potential  
+	
+2.	user mental models – between the ages of 15 and 18
+	
+3.	design imperatives – translucent overlay over the user’s desktop
+
+4.	product vision - To be able to unlock the full potential of the pc
+	
+5.	business requirements – adverts online
+
+6.	technology – processing, github
+
+*4. Design Framework*
+
+**a. Elements**
+
+1.	Deﬁne manifestations of information and functionality 1. Information 2. form factor 3. posture 4. input method 
+
+
+*1.  functional and data elements*
+
+•	Information  
+
+•	functions – to display the current performance of the pc 
+
+•	mechanisms – the hardware’s performance ratio used
+
+•	actions – the program overwrites default config files in the system to let the user have the full capability of the hardware 
+
+•	domain object models – service app 
+
+**b. Framework**
+
+Design overall structure of user experience 
+
+*1. Sketch*
+
+**i.	if your project is a design product**
+
+a.	Your sketch must be a wireframe.
+
+**ii.	if your project is a installation project**
+
+a.	Your sketch must be a installation sketch.
+
+**iii.	Must have**
+
+a.	groupings and hierarchy
+
+b.	Territories of each functional & design elements
+
+c.	Arrangements of containers & components
+
+
+
+*2.	Key path Scenario*
+
+The user downloads the freeware on their pc. Once they install it, they will have to restart it cause the original config files have to be overwritten. Once rebooted, they will have few new UI’s on their desktop. By using these interfaces, the user can set the range of performance they want to achieve. Once the optimal settings are set, the software will unlock the hard drive and give the user the desired performance range.  
+
+
+
+
+
+
+
 
  
