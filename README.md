@@ -244,8 +244,7 @@ Rainmeter,Desktop Theme Manager
 
 **a. Context Scenarios**
 
-The user gets to know the performance of his pc. 
-The user can use the UI controller to maximize the performance of his pc.  
+Adam is a student at Multimedia University. He uses his computer to study and to complete his various assignments. To complete his various assignments, he needs to use some high-end software that requires him to use his computer to its maximum potential. This high-end software uses up a lot of memory and requires a high performance pc in order for it to be stable. Adam boots up the application to check on the performance of his computer. He sees a few applications running in the background and closes it. Adam then adjusts some settings on the application and his computer immediately performs faster than before. Adam is then able to open up the software to do his assignments. 
 
 **b. Requirements**
 
