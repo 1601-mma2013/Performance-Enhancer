@@ -269,7 +269,7 @@ Adam is a student at Multimedia University. He uses his computer to study and to
 
 *1.  functional and data elements*
 
-•	Information  
+•	Information - so that the user know how his computer is performing 
 
 •	functions – to display the current performance of the pc 
 
