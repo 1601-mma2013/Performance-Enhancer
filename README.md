@@ -4,7 +4,7 @@ Group members
 
 •	Daniel Lim Chern Liang 1132701802
 
-•	Siti Fathimah Muhiddin 1141125180
+•	Siti Fathimah Binti Muhiddin 1141125180
 
 
 
