@@ -289,7 +289,7 @@ Design overall structure of user experience
 
 a.	Your sketch must be a wireframe.
 
-![Alt text](C:\Users\User\Pictures\MP Navigator EX\2016_09_21\home.jpg)
+![Alt image](C:\Users\User\Pictures\MP Navigator EX\2016_09_21\home.jpg)
 
 **ii.	if your project is a installation project**
 
