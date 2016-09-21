@@ -289,6 +289,7 @@ Design overall structure of user experience
 
 a.	Your sketch must be a wireframe.
 
+
 **ii.	if your project is a installation project**
 
 a.	Your sketch must be a installation sketch.
