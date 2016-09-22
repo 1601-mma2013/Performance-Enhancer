@@ -38,7 +38,7 @@ Rainmeter , unpark
 
 4.     product portfolio plans 
 
-calculate the frame rate displayed  
+calculate the idel run perforamnce and compare it with the completely unlocked hardwares which are performing at high load to compute massive information.
 
 5.     competitors 
 
@@ -60,7 +60,7 @@ Not knowing the full capabilities of the machine the user is using. 
 
 3.     constraints 
 
-The user might not be satisfied with their desired UI. 
+The user might not be satisfied with their laptops performance. 
 
 4.     opportunities 
 
@@ -77,8 +77,6 @@ c) Completely customisable  
 the users are between 18-28 .  
 
 **d. User Interviews & observations**
-
-Understand user needs and behavior and describe it. Find various aspect of audience/customer
 
 1.     Users
 
@@ -98,11 +96,11 @@ gets frustrated when the quality of the performance of the hardware is not up to
 
 5.     aptitudes
 
-users can use this application to set a benchmark for their device to perform and just let it  run in the background
+users can use this application to set a benchmark for their device to perform and just let it run in the background
 
 6.     motivations
 
-users don’t have to worry about having to lose out on the performance of their device they paid for 
+users don’t have to worry about having to lose out on the performance of their device they paid for 
 
 7.     environments
 
@@ -116,7 +114,6 @@ Processing, Github
 
 To make the program run smoothly with no delay in processing. 
 
- 
 
 *2. Modeling*
 
@@ -166,7 +163,6 @@ Easy going, friendly, adventurous, hardworking.
 
 **3. Aptitudes**
 
-Wants perfection in fps and details. 
 Wants PC to run smoothly without any glitch. 
 
 **4. Goals**
