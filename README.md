@@ -138,27 +138,26 @@ Favourite quote - “Have patience. All things are difficult before they become 
 
 Bio 
 
-Adam is a student at Multimedia University. He uses his laptop to study and to complete his various assignments. He is financially unstable and is not able to afford a powerfull laptop for his media needs. But he has a laptop that is functioning at a capability lower then its acutual capability which makes him angry, he would like to use the full potention of the pc and performance he paid for. 
+Adam is a student at Multimedia University. He uses his laptop to study and to complete his various assignments. He is financially unstable and is not able to afford a powerful laptop for his media needs. But he has a laptop that is functioning at a capability lower then its actual capability which makes him angry, he would like to use the full potential of the pc and performance he paid for. 
 
 **1. Patterns in user and customer behaviours**
+
 
 Pattern user 
 
                                
 
-Lazy                           hardworking
-
+Lazy 
   
-Sleeps early                     Sleeps late
+Sleeps late
 
-
-Doesn't like to discover new things                    Likes to discover new things
+Likes to discover new things
 
 
 
 **Customer behaviour** 
 
-Positive person, have initiative to know more about their PC condition, space, ram. 
+unsatisfied with their pcs performance and want to reamp the preformanvve output without having to buy new hardware. 
 
 **2. Attitudes**
 
@@ -166,7 +165,6 @@ Easy going, friendly, adventurous, hardworking.
 
 **3. Aptitudes**
 
-Wants perfection in fps and details. 
 Wants PC to run smoothly without any glitch. 
 
 **4. Goals**
@@ -206,8 +204,6 @@ Status – very active
  
 
 **1.Workflows among multiple people**
-
-Must have a team to create a project and carry out the work with a specific part; Designer, Communication Designer and manager. The designer is the one who brainstorms and comes out with the strongest idea, the design communicator is the one who has to find an idea on how to create connection in the project and the manager has to manage the progress of the project and make sure it is up to date.
 
 Week 10
 
