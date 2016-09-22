@@ -8,7 +8,7 @@ Group members
 
 
 
-Project Name- performance enhancer
+Project Name- Performance enhancer
 
 *I. Analysis*
 
@@ -20,7 +20,7 @@ Project Name- performance enhancer
 
 1. objectives
 
-To let the user get the best performance of the pc they are using
+To let the user get the best out of the pc that they are using
 
 **b. Audit**
 
@@ -38,7 +38,7 @@ Rainmeter , unpark
 
 4.     product portfolio plans 
 
-calculate the idel run perforamnce and compare it with the completely unlocked hardwares which are performing at high load to compute massive information.
+calculate the frame rate displayed  
 
 5.     competitors 
 
@@ -60,7 +60,7 @@ Not knowing the full capabilities of the machine the user is using. 
 
 3.     constraints 
 
-The user might not be satisfied with their laptops performance. 
+The user might not be satisfied with their desired UI. 
 
 4.     opportunities 
 
@@ -77,6 +77,8 @@ c) Completely customisable  
 the users are between 18-28 .  
 
 **d. User Interviews & observations**
+
+Understand user needs and behavior and describe it. Find various aspect of audience/customer
 
 1.     Users
 
@@ -96,11 +98,11 @@ gets frustrated when the quality of the performance of the hardware is not up to
 
 5.     aptitudes
 
-users can use this application to set a benchmark for their device to perform and just let it run in the background
+users can use this application to set a benchmark for their device to perform and just let it  run in the background
 
 6.     motivations
 
-users don’t have to worry about having to lose out on the performance of their device they paid for 
+users don’t have to worry about having to lose out on the performance of their device they paid for 
 
 7.     environments
 
@@ -114,6 +116,7 @@ Processing, Github
 
 To make the program run smoothly with no delay in processing. 
 
+ 
 
 *2. Modeling*
 
@@ -129,7 +132,7 @@ Occupation– College Student
 
 Faculty – Faculty of Creative Multimedia
 
-Status – Single
+Status – Active
 
 Favourite quote - “Have patience. All things are difficult before they become easy.”  - Saadi 
 
@@ -163,6 +166,7 @@ Easy going, friendly, adventurous, hardworking.
 
 **3. Aptitudes**
 
+Wants perfection in fps and details. 
 Wants PC to run smoothly without any glitch. 
 
 **4. Goals**
@@ -241,11 +245,11 @@ Rainmeter,Desktop Theme Manager
 
 1-Adam is a student at Multimedia University. He uses his computer to study and to complete his various assignments. To complete his various assignments, he needs to use some high-end software that requires him to use his computer to its maximum potential. This high-end software uses up a lot of memory and requires a high performance pc in order for it to be stable. Adam boots up the application to check on the performance of his computer. He sees a few applications running in the background and closes it. Adam then adjusts some settings on the application and his computer immediately performs faster than before. Adam is then able to open up the software to do his assignments. 
 
-2-adam is a student studying in mmu under loan from the govermemt, he dosen have a lot of money to invest in to high performance pc that costs a lot. he still needs to run his hign end softwares to pass up his assignments, with our program adam can use any underclocked pc which costs half the price and can unlock the full potential to use the high end softwares.
+2-Adam is a student studying in mmu under loan from the governmemt, he doesn't have a lot of money to invest into high performance pc that costs a lot. he still needs to run his high end softwares to pass up his assignments, with the program adam can use any underclocked pc which costs half the price and can unlock the full potential to use the high end softwares.
 
-3-adam is working for his 3D modelling class , his assignment is to design a whole room, rendering this takes days to complete on a underclocked pc , but the submittion is tomorrow . adam opens out program and runs a few setting and voila all unwanted procresses are shut down and the computers full postential is used to procress the rendering givivng him enough time to change in case of a mistake.
+3-adam is working for his 3D modelling class , his assignment is to design a whole room, rendering this takes days to complete on a underclocked pc , but the submission is tomorrow . adam opens out the program and runs a few settings and voila all unwanted procresses are shut down and the computer's full postential is used to procress the rendering giving him enough time to change in case of a mistake.
 
-4-the day goes by quickly and adam is late to his submittion, he needs to travel 3 hours to class ,he can just disconnect the power source of his laptop and carry it to class while the program is rendering but as the full potention of the pc is being used , the battery is also being optimised for a stable power consumption letting you run your laptop for longer while running a high load.
+4-the day goes by quickly and adam is late to his submission, he needs to travel 3 hours to class ,he can just disconnect the power source of his laptop and carry it to class while the program is rendering but as the full potential of the pc is being used , the battery is also being optimised for a stable power consumption letting you run your laptop for longer while running a high load.
 
 **b. Requirements**
 
@@ -265,7 +269,7 @@ Rainmeter,Desktop Theme Manager
 
 **a. Elements**
 
-1.	Deﬁne manifestations of information and functionality 1. Information 2. form factor 3. translucent overlay 4. slider mouse input.
+1.	Deﬁne manifestations of information and functionality 1. Information 2. form factor 3. Posture - translucent overlay 4. Input method - slider mouse input.
 
 
 *1.  functional and data elements*
@@ -308,7 +312,7 @@ c.	Arrangements of containers & components
 
 *2.	Key path Scenario*
 
-The user downloads the freeware on their pc. Once they install it, they will have to restart it cause the original config files have to be overwritten. Once rebooted, they will have few new UI’s on their desktop. By using these interfaces, the user can set the range of performance they want to achieve. Once the optimal settings are set, the software will unlock the devices full potential and give the user the desired performance range.  
+The user downloads the freeware on their pc. Once they install it, they will have to restart it because the original config files have to be overwritten. Once rebooted, they will have few new UI’s on their desktop. By using these interfaces, the user can set the range of performance they want to achieve. Once the optimal settings are set, the software will unlock the device's full potential and give the user the desired performance range.  
 
 
 
