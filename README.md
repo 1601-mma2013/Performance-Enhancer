@@ -171,7 +171,7 @@ Wants PC to run smoothly without any glitch.
 
 **4. Goals**
 
-Let the user have the ability to personalise any visualasset displayed on screen to their preferred choice.
+Let the user have the ability to personalise any visual asset displayed on screen to their preferred choice.
 To let the user know the fullest potential of theircomputer.
 
 **5.Environments**
