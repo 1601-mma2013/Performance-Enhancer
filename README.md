@@ -138,7 +138,7 @@ Favourite quote - “Have patience. All things are difficult before they become 
 
 Bio 
 
-Adam is a student at Multimedia University. He uses his computer to study and to complete his various assignments. He is interested in knowing the capabilities of his computer so that he can use it to its fullest potential. 
+Adam is a student at Multimedia University. He uses his laptop to study and to complete his various assignments. He is financially unstable and is not able to afford a powerfull laptop for his media needs. But he has a laptop that is functioning at a capability lower then its acutual capability which makes him angry, he would like to use the full potention of the pc and performance he paid for. 
 
 **1. Patterns in user and customer behaviours**
 
@@ -171,14 +171,13 @@ Wants PC to run smoothly without any glitch.
 
 **4. Goals**
 
-Let the user have the ability to personalise any visual asset displayed on screen to their preferred choice.
-To let the user know the fullest potential of theircomputer.
+Let the user have the ability to know the fullest potential of their computer.
 
 **5.Environments**
 
 At home in the user’s room, the user will always be updated about the capability of their pc when they choose to play games or do their assignment.
 
-In the classroom, the technician will be updated on the stability of the lab pc for student and lecture use. 
+In the classroom, the technician will have uploaded our program on the lab pc for student and lecture use. 
 
 **6. Tools**
 
@@ -194,15 +193,15 @@ To make the program run smoothly with no delay in the application.
 
 Name - Secondary School Student and College Student.
 
-Age - 15 years old to 18 years old.
+Age - 18 years old to 21 years old.
 
 Gender - Male and Female
 
 Occupation–  Student
 
-Faculty – Secondary School 
+Faculty – faculty of creative multimedia 
 
-Status – Single
+Status – very active 
 
  
 
@@ -244,13 +243,19 @@ Rainmeter,Desktop Theme Manager
 
 **a. Context Scenarios**
 
-Adam is a student at Multimedia University. He uses his computer to study and to complete his various assignments. To complete his various assignments, he needs to use some high-end software that requires him to use his computer to its maximum potential. This high-end software uses up a lot of memory and requires a high performance pc in order for it to be stable. Adam boots up the application to check on the performance of his computer. He sees a few applications running in the background and closes it. Adam then adjusts some settings on the application and his computer immediately performs faster than before. Adam is then able to open up the software to do his assignments. 
+1-Adam is a student at Multimedia University. He uses his computer to study and to complete his various assignments. To complete his various assignments, he needs to use some high-end software that requires him to use his computer to its maximum potential. This high-end software uses up a lot of memory and requires a high performance pc in order for it to be stable. Adam boots up the application to check on the performance of his computer. He sees a few applications running in the background and closes it. Adam then adjusts some settings on the application and his computer immediately performs faster than before. Adam is then able to open up the software to do his assignments. 
+
+2-adam is a student studying in mmu under loan from the govermemt, he dosen have a lot of money to invest in to high performance pc that costs a lot. he still needs to run his hign end softwares to pass up his assignments, with our program adam can use any underclocked pc which costs half the price and can unlock the full potential to use the high end softwares.
+
+3-adam is working for his 3D modelling class , his assignment is to design a whole room, rendering this takes days to complete on a underclocked pc , but the submittion is tomorrow . adam opens out program and runs a few setting and voila all unwanted procresses are shut down and the computers full postential is used to procress the rendering givivng him enough time to change in case of a mistake.
+
+4-the day goes by quickly and adam is late to his submittion, he needs to travel 3 hours to class ,he can just disconnect the power source of his laptop and carry it to class while the program is rendering but as the full potention of the pc is being used , the battery is also being optimised for a stable power consumption letting you run your laptop for longer while running a high load.
 
 **b. Requirements**
 
 1.	Functional and data needs – The pc’s hardware specification and its full run potential compared to the current run potential  
 	
-2.	user mental models – between the ages of 15 and 18
+2.	user mental models – between the ages of 18-21
 	
 3.	design imperatives – translucent overlay over the user’s desktop
 
@@ -264,7 +269,7 @@ Adam is a student at Multimedia University. He uses his computer to study and to
 
 **a. Elements**
 
-1.	Deﬁne manifestations of information and functionality 1. Information 2. form factor 3. posture 4. input method 
+1.	Deﬁne manifestations of information and functionality 1. Information 2. form factor 3. translucent overlay 4. slider mouse input.
 
 
 *1.  functional and data elements*
@@ -273,7 +278,7 @@ Adam is a student at Multimedia University. He uses his computer to study and to
 
 •	functions – to display the current performance of the pc 
 
-•	mechanisms – the hardware’s performance ratio used
+•	mechanisms – the hardware’s performance ratios are used
 
 •	actions – the program overwrites default config files in the system to let the user have the full capability of the hardware 
 
@@ -307,7 +312,7 @@ c.	Arrangements of containers & components
 
 *2.	Key path Scenario*
 
-The user downloads the freeware on their pc. Once they install it, they will have to restart it cause the original config files have to be overwritten. Once rebooted, they will have few new UI’s on their desktop. By using these interfaces, the user can set the range of performance they want to achieve. Once the optimal settings are set, the software will unlock the hard drive and give the user the desired performance range.  
+The user downloads the freeware on their pc. Once they install it, they will have to restart it cause the original config files have to be overwritten. Once rebooted, they will have few new UI’s on their desktop. By using these interfaces, the user can set the range of performance they want to achieve. Once the optimal settings are set, the software will unlock the devices full potential and give the user the desired performance range.  
 
 
 
