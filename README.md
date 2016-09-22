@@ -8,7 +8,7 @@ Group members
 
 
 
-Project Name- Performance enhancer
+Project Name- Performance Enhancer
 
 *I. Analysis*
 
@@ -128,7 +128,7 @@ Age - 19
 
 Gender - Male 
 
-Occupation– College Student
+Occupation– Student
 
 Faculty – Faculty of Creative Multimedia
 
@@ -138,7 +138,7 @@ Favourite quote - “Have patience. All things are difficult before they become 
 
 Bio 
 
-Adam is a student at Multimedia University. He uses his laptop to study and to complete his various assignments. He is financially unstable and is not able to afford a powerful laptop for his media needs. But he has a laptop that is functioning at a capability lower then its actual capability which makes him angry, he would like to use the full potential of the pc and performance he paid for. 
+Adam is a student at Multimedia University. He uses his laptop to study and to complete his various assignments. He is financially unstable and is not able to afford a powerful laptop for his media needs. But he has a laptop that is functioning at a capability lower than its actual capability which makes him angry, he would like to use the full potential of the pc and performance he paid for. 
 
 **1. Patterns in user and customer behaviours**
 
@@ -157,7 +157,7 @@ Likes to discover new things
 
 **Customer behaviour** 
 
-unsatisfied with their pcs performance and want to reamp the preformanvve output without having to buy new hardware. 
+unsatisfied with their pc's performance and want to reamp the preformance output without having to buy new hardware. 
 
 **2. Attitudes**
 
@@ -175,7 +175,7 @@ Let the user have the ability to know the fullest potential of their computer.
 
 At home in the user’s room, the user will always be updated about the capability of their pc when they choose to play games or do their assignment.
 
-In the classroom, the technician will have uploaded our program on the lab pc for student and lecture use. 
+In the classroom, the technician will have uploaded our program on the lab computers for students and lecturers to use. 
 
 **6. Tools**
 
@@ -189,15 +189,13 @@ To make the program run smoothly with no delay in the application.
 
 **b. Other Models**
 
-Name - Secondary School Student and College Student.
+Name - College Students
 
-Age - 18 years old to 21 years old.
+Age - 18 years old to 21 years old
 
 Gender - Male and Female
 
-Occupation–  Student
-
-Faculty – faculty of creative multimedia 
+Occupation – Student
 
 Status – very active 
 
