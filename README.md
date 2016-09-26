@@ -288,7 +288,8 @@ Design overall structure of user experience
 
 a.	Your sketch must be a wireframe.
 
-https://cloud.githubusercontent.com/assets/20385650/18846554/174d6106-8459-11e6-9a2d-c59e0c759f04.jpg
+**Front Page**
+https://cloud.githubusercontent.com/assets/20385650/18851410/703de456-846e-11e6-98fd-7dcdb48a5c96.jpg
 
 **ii.	if your project is a installation project**
 
