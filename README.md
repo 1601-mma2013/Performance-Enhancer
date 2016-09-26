@@ -288,7 +288,7 @@ Design overall structure of user experience
 
 a.	Your sketch must be a wireframe.
 
-(C:\Users\User\Pictures\MP Navigator EX\2016_09_21\home.jpg)
+https://cloud.githubusercontent.com/assets/20385650/18846554/174d6106-8459-11e6-9a2d-c59e0c759f04.jpg
 
 **ii.	if your project is a installation project**
 
