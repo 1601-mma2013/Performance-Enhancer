@@ -302,6 +302,12 @@ https://cloud.githubusercontent.com/assets/20385650/18851412/703f0480-846e-11e6-
 ** Scan Virus
 https://cloud.githubusercontent.com/assets/20385650/18851413/704177a6-846e-11e6-8388-aa89750998f3.jpg
 
+**Reminder
+https://cloud.githubusercontent.com/assets/20385650/18851414/7047cf66-846e-11e6-91b9-bfcc8c8f1595.jpg
+**ii.	if your project is a installation project**
+
+
+
 a.	Your sketch must be a installation sketch.
 
 **iii.	Must have**
