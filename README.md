@@ -293,13 +293,14 @@ a.	Your sketch must be a wireframe.
 **Front Page**
 https://cloud.githubusercontent.com/assets/20385650/18851410/703de456-846e-11e6-98fd-7dcdb48a5c96.jpg
 
+**Computer Data
+https://cloud.githubusercontent.com/assets/20385650/18851411/703dfa22-846e-11e6-9305-90461e2953f7.jpg
+
 **Secod-Defragment file
 https://cloud.githubusercontent.com/assets/20385650/18851412/703f0480-846e-11e6-8d39-e8d8d303b759.jpg
 
 ** Scan Virus
 https://cloud.githubusercontent.com/assets/20385650/18851413/704177a6-846e-11e6-8388-aa89750998f3.jpg
-
-**ii.	if your project is a installation project**
 
 a.	Your sketch must be a installation sketch.
 
