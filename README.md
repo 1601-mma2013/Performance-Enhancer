@@ -34,7 +34,7 @@ Rainmeter, unpark cpu, Samurize, RocketDock, Emerge Desktop, AutoHotKey, Fences,
 
 4.     Product Portfolio Plans 
 
-This is a product is a very simple and easy to use program that is free to download off the web, it is very handy when it comes to using old pcs that don't have the processing power to a high end pc or even for people with a tight budget and cannot buy an expensive pc.
+This is a product that is very simple and easy to use program and it is free to download off the web, it is very handy when it comes to using old pcs that don't have the processing power to a high end pc or even for people with a tight budget and cannot buy an expensive pc.
 
 5.     Competitors 
 
