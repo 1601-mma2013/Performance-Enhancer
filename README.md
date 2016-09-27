@@ -127,7 +127,7 @@ Age - 19
 
 Gender - Male 
 
-Occupation– Student
+Occupation – Student
 
 Faculty – Faculty of Creative Multimedia
 
@@ -287,22 +287,22 @@ Design overall structure of user experience
 
 a.	Your sketch must be a wireframe.
 
-**Front Page**
+Front Page
 https://cloud.githubusercontent.com/assets/20385650/18851410/703de456-846e-11e6-98fd-7dcdb48a5c96.jpg
 
-**Computer Data
+Computer Data
 https://cloud.githubusercontent.com/assets/20385650/18851411/703dfa22-846e-11e6-9305-90461e2953f7.jpg
 
-**Second-Defragment file
+Second-Defragment file
 https://cloud.githubusercontent.com/assets/20385650/18851412/703f0480-846e-11e6-8d39-e8d8d303b759.jpg
 
-** Scan Virus
+Scan Virus
 https://cloud.githubusercontent.com/assets/20385650/18851413/704177a6-846e-11e6-8388-aa89750998f3.jpg
 
-**Reminder
+Reminder
 https://cloud.githubusercontent.com/assets/20385650/18851414/7047cf66-846e-11e6-91b9-bfcc8c8f1595.jpg
 
-**Computer Temperature
+Computer Temperature
 https://cloud.githubusercontent.com/assets/20385650/18851415/704839ce-846e-11e6-8d97-7b761928676a.jpg
 
 
