@@ -259,7 +259,7 @@ Rainmeter, Desktop Theme Manager.
 	Deﬁne manifestations of information and functionality
 	
 	1. Information - Data collected from the computer
-	2. Form factor - Wide 
+	2. Form factor - Computer application 
 	3. Posture - Translucent overlay
 	4. Input method - Slider mouse input.
 
