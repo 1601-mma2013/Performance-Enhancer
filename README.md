@@ -14,7 +14,7 @@
 
 **a. Scope**
 
-1.      Objectives
+ 1.     Objectives
 
 To let the user get the best out of the pc that they are using everyday and in every walks of life.
 
@@ -313,7 +313,8 @@ c.	Arrangements of containers & components
 
 
 *2.	Key path Scenario*
-	The user downloads the freeware on their pc. Once they install it, they will have to restart it because the original config files have to be overwritten. Once rebooted, they will have few new UI’s on their desktop. By using these interfaces, the user can set the range of performance they want to achieve. Once the optimal settings are set, the software will unlock the device's full potential and give the user the desired performance range.  
+
+The user downloads the freeware on their pc. Once they install it, they will have to restart it because the original config files have to be overwritten. Once rebooted, they will have few new UI’s on their desktop. By using these interfaces, the user can set the range of performance they want to achieve. Once the optimal settings are set, the software will unlock the device's full potential and give the user the desired performance range.  
 
 
 
