@@ -101,7 +101,7 @@ Users can use this application to set a benchmark for their device to perform an
 
 6.     Motivations
 
-Users don’t have to worry about having to lose out on the performance of their device they paid for, it's free and easily accessable , easy to insall and set the setting, easy to use as the UI is very simple.
+Users don’t have to worry about having to lose out on the performance of their device they paid for, it's free and easily accessible , easy to insall and set the setting, easy to use as the UI is very simple.
 
 7.     Environments
 
