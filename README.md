@@ -48,7 +48,7 @@ Xbox 360, Playstation, Wii, iOS devices.
 
 1.     Product{project} Vision 
 
-To be able to provide a free and easily accessible program to the masses to improve the user experience by boosing the pcs performance using the disabled componentes of the factory made pcs.
+To be able to provide a free and easily accessible program to the masses to improve the user experience by boosting the pcs performance using the disabled components of the factory made pcs.
 
 2.     Risk
 
