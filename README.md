@@ -6,7 +6,7 @@
 
 	•Siti Fathimah Binti Muhiddin 1141125180
 
-						Project Name- Performance Enhancer
+Project Name- Performance Enhancer
 
 *I. Analysis*
 
@@ -26,19 +26,19 @@ Unlock the full potential of the pc. Most hardware are softlocked to perform an 
 
 2.     Branding Strategy
 
-Optimiser- the ability to change the performance status of the ideal pc to a higher performance pc.
+Optimiser - the ability to change the performance status of the ideal pc to a higher performance pc.
 
 3.     Market/Field Research 
 
-Rainmeter , unpark cpu, Samurize,RocketDock,Emerge Desktop,AutoHotKey,Fences,Dexpot,Cairo for Windows,XWidget.
+Rainmeter, unpark cpu, Samurize, RocketDock, Emerge Desktop, AutoHotKey, Fences, Dexpot, Cairo for Windows, XWidget.
 
 4.     Product Portfolio Plans 
 
-This is a product is a very simple and easy to use program wthat is free to download off the web, i ts is very handy when it comes to unsing old pcs that dont have thwe prosessing power to a high end pc. or even for people with a tight budget and cannot buy a expensive pc.
+This is a product that is very simple and easy to use program that is free to download off the web, it is very handy when it comes to using old pcs that don't have the prosessing power to a high end pc or even for people with a tight budget and cannot buy a expensive pc.
 
 5.     Competitors 
 
-Steam Game Overlay, Overwolf ,GKrellM,Bleachbit, Glary Utilities, Clean Master, Wise Registry Cleaner, Iobit Advanced Systemcare, Wise Disk Cleaner, Wise Care 365, Auslogics Boostspeed.
+Steam Game Overlay, Overwolf, GKrellM, Bleachbit, Glary Utilities, Clean Master, Wise Registry Cleaner, Iobit Advanced Systemcare, Wise Disk Cleaner, Wise Care 365, Auslogics Boostspeed.
 
 6.     Relevant Technologies 
 
@@ -48,7 +48,7 @@ Xbox 360, Playstation, Wii, iOS devices.
 
 1.     Product{project} Vision 
 
-To be able to provide a free and easily accessable pprogram to the masses to improve the user experience by boosing the pcs performance using the disabled componentes of the factory made pcs.
+To be able to provide a free and easily accessible program to the masses to improve the user experience by boosing the pcs performance using the disabled componentes of the factory made pcs.
 
 2.     Risk
 
@@ -56,7 +56,7 @@ Not knowing the full capabilities of the machine the user is using as the person
 
 3.     Constraints 
 
-There are many other programs out there giving the same functions but are not free as we have to pay to get that software, and the budgetting for the development of the program.
+There are many other programs out there giving the same functions but are not free as we have to pay to get that software, and the budgeting for the development of the program.
 
 4.      Opportunities 
 
@@ -109,7 +109,7 @@ IMacs for example are soft locked to access hard wares but it has it internally 
 
 8.     Tools
 
-Processing, Github,c++.
+Processing, Github, c++.
 
 9.     Challenges
 
@@ -120,6 +120,7 @@ To make the program run smoothly with no delay in processing the data being fed 
 *2. Modeling*
 
 **a. Personas**
+
 	Name - Adam.
 
 	Age - 19.
@@ -141,51 +142,52 @@ To make the program run smoothly with no delay in processing the data being fed 
 **1. Patterns in user and customer behaviours**
 
 
-Pattern user. 
+	Pattern user. 
 
                                
 
-Lazy. 
+	Lazy. 
   
-Sleeps late.
+	Sleeps late.
 
-Likes to discover new things.
+	Likes to discover new things.
 
 
 
 **Customer behaviour** 
 
-Unsatisfied with their pc's performance and want to reamp the preformance output without having to buy new hardware. 
+	Unsatisfied with their pc's performance and want to reamp the preformance output without having to buy new hardware. 
 
 **2. Attitudes**
 
-Easy going, friendly, adventurous, hardworking. 
+	Easy going, friendly, adventurous, hardworking. 
 
 **3. Aptitudes**
 
-Wants PC to run smoothly without any glitch. 
+	Wants PC to run smoothly without any glitch. 
 
 **4. Goals**
 
-Let the user have the ability to know the fullest potential of their computer.
+	Let the user have the ability to know the fullest potential of their computer.
 
 **5.Environments**
 
-At home in the user’s room, the user will always be updated about the capability of their pc when they choose to play games or do their assignment.
+	At home in the user’s room, the user will always be updated about the capability of their pc when they choose to play games or do their assignment.
 
 In the classroom, the technician will have uploaded our program on the lab computers for students and lecturers to use. 
 
 **6. Tools**
 
-Computer – Processing, github.
+	Computer – Processing, github.
 
 **7. Challenges**
 
-To make the program run smoothly with no delay in the application.
+	To make the program run smoothly with no delay in the application.
 
 
 
 **b. Other Models**
+
 	Name - College Students.
 
 	Age - 18 years old to 21 years old.
@@ -222,17 +224,18 @@ Week 14
 
 **2. Environments** 
 
-Classroom, lab.
+	Classroom, lab.
 
 **3. Artifacts**
 
-Rainmeter,Desktop Theme Manager.
+	Rainmeter,Desktop Theme Manager.
 
 *II. Synthesis*
 
-*3. Requirements Definition*
+	*3. Requirements Definition*
 
 **a. Context Scenarios**
+
 	1-Adam is a student at Multimedia University. He uses his computer to study and to complete his various assignments. To complete his various assignments, he needs to use some high-end software that requires him to use his computer to its maximum potential. This high-end software uses up a lot of memory and requires a high performance pc in order for it to be stable. Adam boots up the application to check on the performance of his computer. He sees a few applications running in the background and closes it. Adam then adjusts some settings on the application and his computer immediately performs faster than before. Adam is then able to open up the software to do his assignments. 
 
 	2-Adam is a student studying in mmu under loan from the governmemt, he doesn't have a lot of money to invest into high performance pc that costs a lot. he still needs to run his high end softwares to pass up his assignments, with the program adam can use any underclocked pc which costs half the price and can unlock the full potential to use the high end softwares.
@@ -258,6 +261,7 @@ Rainmeter,Desktop Theme Manager.
 *4. Design Framework*
 
 **a. Elements**
+
 	Deﬁne manifestations of information and functionality
 	
 	1. Information - data collected from the computer
@@ -279,28 +283,29 @@ Rainmeter,Desktop Theme Manager.
 •Domain object models – service app. 
 
 **b. Framework**
+
 	Design overall structure of user experience 
 
 *1. Sketch*
 
 **i.	if your project is a design product**
 
-**Front Page**
+Front Page
 https://cloud.githubusercontent.com/assets/20385650/18851410/703de456-846e-11e6-98fd-7dcdb48a5c96.jpg
 
-**Computer Data
+Computer Data
 https://cloud.githubusercontent.com/assets/20385650/18851411/703dfa22-846e-11e6-9305-90461e2953f7.jpg
 
-**Second-Defragment file
+Second-Defragment file
 https://cloud.githubusercontent.com/assets/20385650/18851412/703f0480-846e-11e6-8d39-e8d8d303b759.jpg
 
-** Scan Virus
+Scan Virus
 https://cloud.githubusercontent.com/assets/20385650/18851413/704177a6-846e-11e6-8388-aa89750998f3.jpg
 
-**Reminder
+Reminder
 https://cloud.githubusercontent.com/assets/20385650/18851414/7047cf66-846e-11e6-91b9-bfcc8c8f1595.jpg
 
-**Computer Temperature
+Computer Temperature
 https://cloud.githubusercontent.com/assets/20385650/18851415/704839ce-846e-11e6-8d97-7b761928676a.jpg
 
 
@@ -315,6 +320,7 @@ c.	Arrangements of containers & components
 
 
 *2.	Key path Scenario*
+
 	The user downloads the freeware on their pc. Once they install it, they will have to restart it because the original config files have to be overwritten. Once rebooted, they will have few new UI’s on their desktop. By using these interfaces, the user can set the range of performance they want to achieve. Once the optimal settings are set, the software will unlock the device's full potential and give the user the desired performance range.  
 
 
