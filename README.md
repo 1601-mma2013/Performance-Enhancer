@@ -38,7 +38,7 @@ This is a product is a very simple and easy to use program that is free to downl
 
 5.     Competitors 
 
-Steam Game Overlay, Overwolfw, GKrellM, Bleachbit, Glary Utilities, Clean Master, Wise Registry Cleaner, Iobit Advanced Systemcare, Wise Disk Cleaner, Wise Care 365, Auslogics Boostspeed.
+Steam Game Overlay, Overwolf, GKrellM, Bleachbit, Glary Utilities, Clean Master, Wise Registry Cleaner, Iobit Advanced Systemcare, Wise Disk Cleaner, Wise Care 365, Auslogics Boostspeed.
 
 6.     Relevant Technologies 
 
@@ -68,7 +68,7 @@ There are many other programs out there giving the same functions but are not fr
 
 		c) Completely customisable. 
 	
-		d) It is very helpful to people who cant afford a good pc. 
+		d) It is very helpful to people who can't afford a good pc. 
 
 		e) The coding is stable as the coding is done in processing.
 
@@ -113,7 +113,7 @@ Processing, Github, c++.
 
 9.     Challenges
 
-To make the program run smoothly with no delay in processing the data being fed into pur program to set an optimal benchmark to pc to achieve. The users dont know much about overclocking and it could cause their pc to burn up. 
+To make the program run smoothly with no delay in processing the data being fed into pur program to set an optimal benchmark to pc to achieve. The users don't know much about overclocking and it could cause their pc to burn up. 
 
  
 
