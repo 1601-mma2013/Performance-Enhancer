@@ -120,31 +120,27 @@ To make the program run smoothly with no delay in processing the data being fed 
 *2. Modeling*
 
 **a. Personas**
-	Name - Adam.
 
-	Age - 19.
+Name - Adam.
 
-	Gender - Male. 
+Age - 19.
 
-	Occupation– Student.
+Gender - Male. 
 
-	Faculty – Faculty of Creative Multimedia.
+Occupation– Student.
 
-	Status – Active.
+Faculty – Faculty of Creative Multimedia.
 
-	Favourite Quote - “Have patience. All things are difficult before they become easy.”  - Saadi. 
+Status – Active.
 
-	Bio 
+Favourite Quote - “Have patience. All things are difficult before they become easy.”  - Saadi. 
 
-	Adam is a student at Multimedia University. He uses his laptop to study and to complete his various assignments. He is financially unstable and is not able to afford a powerful laptop for his media needs. But he has a laptop that is functioning at a capability lower than its actual capability which makes him angry. He would like to use the full potential of the pc and performance he paid for. 
+Bio- Adam is a student at Multimedia University. He uses his laptop to study and to complete his various assignments. He is financially unstable and is not able to afford a powerful laptop for his media needs. But he has a laptop that is functioning at a capability lower than its actual capability which makes him angry. He would like to use the full potential of the pc and performance he paid for. 
 
 **1. Patterns in user and customer behaviours**
 
-
 Pattern user. 
-
-                               
-
+                 
 Lazy. 
   
 Sleeps late.
@@ -186,15 +182,16 @@ To make the program run smoothly with no delay in the application.
 
 
 **b. Other Models**
-	Name - College Students.
 
-	Age - 18 years old to 21 years old.
+Name - College Students.
 
-	Gender - Male and Female.
+Age - 18 years old to 21 years old.
 
-	Occupation – Student.
+Gender - Male and Female.
 
-	Status – Very active. 
+Occupation – Student.
+
+Status – Very active. 
 
  
 
@@ -233,13 +230,14 @@ Rainmeter, Desktop Theme Manager.
 *3. Requirements Definition*
 
 **a. Context Scenarios**
-	1-Adam is a student at Multimedia University. He uses his computer to study and to complete his various assignments. To complete his various assignments, he needs to use some high-end software that requires him to use his computer to its maximum potential. This high-end software uses up a lot of memory and requires a high performance pc in order for it to be stable. Adam boots up the application to check on the performance of his computer. He sees a few applications running in the background and closes it. Adam then adjusts some settings on the application and his computer immediately performs faster than before. Adam is then able to open up the software to do his assignments. 
 
-	2-Adam is a student studying in mmu under loan from the governmemt, he doesn't have a lot of money to invest into high performance pc that costs a lot. he still needs to run his high end softwares to pass up his assignments, with the program adam can use any underclocked pc which costs half the price and can unlock the full potential to use the high end softwares.
+1-Adam is a student at Multimedia University. He uses his computer to study and to complete his various assignments. To complete his various assignments, he needs to use some high-end software that requires him to use his computer to its maximum potential. This high-end software uses up a lot of memory and requires a high performance pc in order for it to be stable. Adam boots up the application to check on the performance of his computer. He sees a few applications running in the background and closes it. Adam then adjusts some settings on the application and his computer immediately performs faster than before. Adam is then able to open up the software to do his assignments. 
 
-	3-Adam is working for his 3D modelling class , his assignment is to design a whole room, rendering this takes days to complete on a underclocked pc , but the submission is tomorrow . adam opens out the program and runs a few settings and voila all unwanted procresses are shut down and the computer's full postential is used to procress the rendering giving him enough time to change in case of a mistake.
+2-Adam is a student studying in mmu under loan from the governmemt, he doesn't have a lot of money to invest into high performance pc that costs a lot. he still needs to run his high end softwares to pass up his assignments, with the program adam can use any underclocked pc which costs half the price and can unlock the full potential to use the high end softwares.
 
-	4-The day goes by quickly and adam is late to his submission, he needs to travel 3 hours to class ,he can just disconnect the power source of his laptop and carry it to class while the program is rendering but as the full potential of the pc is being used , the battery is also being optimised for a stable power consumption letting you run your laptop for longer while running a high load.
+3-Adam is working for his 3D modelling class , his assignment is to design a whole room, rendering this takes days to complete on a underclocked pc , but the submission is tomorrow . adam opens out the program and runs a few settings and voila all unwanted procresses are shut down and the computer's full postential is used to procress the rendering giving him enough time to change in case of a mistake.
+
+4-The day goes by quickly and adam is late to his submission, he needs to travel 3 hours to class ,he can just disconnect the power source of his laptop and carry it to class while the program is rendering but as the full potential of the pc is being used , the battery is also being optimised for a stable power consumption letting you run your laptop for longer while running a high load.
 
 **b. Requirements**
 
