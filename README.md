@@ -89,11 +89,11 @@ Multimedia students, and overclockers and people who use heavy software.
 
 3.      Behaviors
 
-Wants the best of the hardware they paid so much for as the parts for this pcs are not cheep so dude the underclocking of the components the user feels being cheated by the pcs company.
+Wants the best of the hardware they paid so much for as the parts for this pcs are not cheap so the underclocking of the components makes the user feel cheated by the pcs company.
 
 4.      Attitudes
 
-Gets frustrated when the quality of the performance of the hardware is not up to the mark as the components are way underclocked then their actual performance.
+Gets frustrated when the quality of the performance of the hardware is not up to the mark as the components are way underclocked than their actual performance.
 
 5.      Aptitudes
 
