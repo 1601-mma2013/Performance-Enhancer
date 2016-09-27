@@ -14,49 +14,49 @@
 
 **a. Scope**
 
-1. 	Objectives
+1. Objectives
 
-	To let the user get the best out of the pc that they are using everyday and in every walks of life.
+To let the user get the best out of the pc that they are using everyday and in every walks of life.
 
 **b. Audit**
 
 1.     Business and Marketing Plans
 
-	Unlock the full potential of the pc. Most hardware are softlocked to perform an action only with limited hardware, this will let the processes run faster using full hardware available to the user.
+Unlock the full potential of the pc. Most hardware are softlocked to perform an action only with limited hardware, this will let the processes run faster using full hardware available to the user.
 
 2.     Branding Strategy
 
-	Optimiser- the ability to change the performance status of the ideal pc to a higher performance pc.
+Optimiser- the ability to change the performance status of the ideal pc to a higher performance pc.
 
 3.     Market/Field Research 
 
-	Rainmeter , unpark cpu, Samurize,RocketDock,Emerge Desktop,AutoHotKey,Fences,Dexpot,Cairo for Windows,XWidget.
+Rainmeter , unpark cpu, Samurize,RocketDock,Emerge Desktop,AutoHotKey,Fences,Dexpot,Cairo for Windows,XWidget.
 
 4.     Product Portfolio Plans 
 
-	This is a product is a very simple and easy to use program wthat is free to download off the web, i ts is very handy when it comes to unsing old pcs that dont have thwe prosessing power to a high end pc. or even for people with a tight budget and cannot buy a expensive pc.
+This is a product is a very simple and easy to use program wthat is free to download off the web, i ts is very handy when it comes to unsing old pcs that dont have thwe prosessing power to a high end pc. or even for people with a tight budget and cannot buy a expensive pc.
 
 5.     Competitors 
 
-	Steam Game Overlay, Overwolf ,GKrellM,Bleachbit, Glary Utilities, Clean Master, Wise Registry Cleaner, Iobit Advanced Systemcare, Wise Disk Cleaner, Wise Care 365, Auslogics Boostspeed.
+Steam Game Overlay, Overwolf ,GKrellM,Bleachbit, Glary Utilities, Clean Master, Wise Registry Cleaner, Iobit Advanced Systemcare, Wise Disk Cleaner, Wise Care 365, Auslogics Boostspeed.
 
 6.     Relevant Technologies 
 
-	Xbox 360, Playstation, Wii, iOS devices.
+Xbox 360, Playstation, Wii, iOS devices.
 
 **c. Stakeholder Interviews**
 
 1.     Product{project} Vision 
 
-	To be able to provide a free and easily accessable pprogram to the masses to improve the user experience by boosing the pcs performance using the disabled componentes of the factory made pcs.
+To be able to provide a free and easily accessable pprogram to the masses to improve the user experience by boosing the pcs performance using the disabled componentes of the factory made pcs.
 
 2.     Risk
 
-	Not knowing the full capabilities of the machine the user is using as the person using this software could be on a highend pc, and as we limit the performance status it might work in reverse. 
+Not knowing the full capabilities of the machine the user is using as the person using this software could be on a highend pc, and as we limit the performance status it might work in reverse. 
 
 3.     Constraints 
 
-	There are many other programs out there giving the same functions but are not free as we have to pay to get that software, and the budgetting for the development of the program.
+There are many other programs out there giving the same functions but are not free as we have to pay to get that software, and the budgetting for the development of the program.
 
 4.      Opportunities 
 
@@ -85,35 +85,35 @@
 
 2.      Potential Users
 
-	Multimedia students, and overclockers and people who use heavy software.
+Multimedia students, and overclockers and people who use heavy software.
 
 3.      Behaviors
 
-	Wants the best of the hardware they paid so much for as the parts for this pcs are not cheep so dude the underclocking of the components the user feels being cheated by the pcs company.
+Wants the best of the hardware they paid so much for as the parts for this pcs are not cheep so dude the underclocking of the components the user feels being cheated by the pcs company.
 
 4.      Attitudes
 
-	Gets frustrated when the quality of the performance of the hardware is not up to the mark as the components are way underclocked then their actual performance.
+Gets frustrated when the quality of the performance of the hardware is not up to the mark as the components are way underclocked then their actual performance.
 
 5.      Aptitudes
 
-	Users can use this application to set a benchmark for their device to perform and just let it run in the background while the do their work, the program will not disturb the user untill the high load is been taken care of.
+Users can use this application to set a benchmark for their device to perform and just let it run in the background while the do their work, the program will not disturb the user untill the high load is been taken care of.
 
 6.     Motivations
 
-	Users don’t have to worry about having to lose out on the performance of their device they paid for, its free and easily accessable , easy to insall and set the setting , easy to use as the UI is very simple.
+Users don’t have to worry about having to lose out on the performance of their device they paid for, its free and easily accessable , easy to insall and set the setting , easy to use as the UI is very simple.
 
 7.     Environments
 
-	IMacs for example are soft locked to access hard wares but it has it internally so this app lets you utilise the full capability of the hardware. 
+IMacs for example are soft locked to access hard wares but it has it internally so this app lets you utilise the full capability of the hardware. 
 
 8.     Tools
 
-	Processing, Github,c++.
+Processing, Github,c++.
 
 9.     Challenges
 
-	To make the program run smoothly with no delay in processing the data being fed into pur program to set an optimal benchmark to pc to achieve. the users dont know much abt overclocking and it could cause their pc to burn up. 
+To make the program run smoothly with no delay in processing the data being fed into pur program to set an optimal benchmark to pc to achieve. the users dont know much abt overclocking and it could cause their pc to burn up. 
 
  
 
@@ -246,17 +246,17 @@ Week 14
 
 **b. Requirements**
 
-1.	Functional and data needs – The pc’s hardware specification and its full run potential compared to the current run potential.  
+1.Functional and data needs – The pc’s hardware specification and its full run potential compared to the current run potential.  
 	
-2.	User mental models – between the ages of 18-21.
+2.User mental models – between the ages of 18-21.
 	
-3.	Design imperatives – translucent overlay over the user’s desktop.
+3.Design imperatives – translucent overlay over the user’s desktop.
 
-4.	Product vision - To be able to unlock the full potential of the pc.
+4.Product vision - To be able to unlock the full potential of the pc.
 	
-5.	Business requirements – adverts online.
+5.Business requirements – adverts online.
 
-6.	Technology – processing, github.
+6.Technology – processing, github.
 
 *4. Design Framework*
 
@@ -272,15 +272,15 @@ Week 14
 
 *1.  functional and data elements*
 
-•	Information - so that the user know how his computer is performing. 
+•Information - so that the user know how his computer is performing. 
 
-•	Functions – to display the current performance of the pc. 
+•Functions – to display the current performance of the pc. 
 
-•	Mechanisms – the hardware’s performance ratios are used.
+•Mechanisms – the hardware’s performance ratios are used.
 
-•	Actions – the program overwrites default config files in the system to let the user have the full capability of the 		hardware. 
+•Actions – the program overwrites default config files in the system to let the user have the full capability of the 		hardware. 
 
-•	Domain object models – service app. 
+•Domain object models – service app. 
 
 **b. Framework**
 
