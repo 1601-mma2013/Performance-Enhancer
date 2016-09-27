@@ -1,12 +1,12 @@
-Group members
+	*Group Members*
 
-•Chirag Suresh 1132701660
+	•Chirag Suresh 1132701660
 
-•Daniel Lim Chern Liang 1132701802
+	•Daniel Lim Chern Liang 1132701802
 
-•Siti Fathimah Binti Muhiddin 1141125180
+	•Siti Fathimah Binti Muhiddin 1141125180
 
-Project Name- Performance Enhancer
+						Project Name- Performance Enhancer
 
 *I. Analysis*
 
@@ -16,23 +16,23 @@ Project Name- Performance Enhancer
 
 1. 	Objectives
 
-	To let the user get the best out of the pc that they are using everyday and in every walkes of life.
+	To let the user get the best out of the pc that they are using everyday and in every walks of life.
 
 **b. Audit**
 
-1.     Business and marketing plans
+1.     Business and Marketing Plans
 
 	Unlock the full potential of the pc. Most hardware are softlocked to perform an action only with limited hardware, this will let the processes run faster using full hardware available to the user.
 
-2.     Branding strategy
+2.     Branding Strategy
 
 	Optimiser- the ability to change the performance status of the ideal pc to a higher performance pc.
 
-3.     Market/field research 
+3.     Market/Field Research 
 
 	Rainmeter , unpark cpu, Samurize,RocketDock,Emerge Desktop,AutoHotKey,Fences,Dexpot,Cairo for Windows,XWidget.
 
-4.     Product portfolio plans 
+4.     Product Portfolio Plans 
 
 	This is a product is a very simple and easy to use program wthat is free to download off the web, i ts is very handy when it comes to unsing old pcs that dont have thwe prosessing power to a high end pc. or even for people with a tight budget and cannot buy a expensive pc.
 
@@ -40,13 +40,13 @@ Project Name- Performance Enhancer
 
 	Steam Game Overlay, Overwolf ,GKrellM,Bleachbit, Glary Utilities, Clean Master, Wise Registry Cleaner, Iobit Advanced Systemcare, Wise Disk Cleaner, Wise Care 365, Auslogics Boostspeed.
 
-6.     Relevant technologies 
+6.     Relevant Technologies 
 
 	Xbox 360, Playstation, Wii, iOS devices.
 
 **c. Stakeholder Interviews**
 
-1.     Product{project} vision 
+1.     Product{project} Vision 
 
 	To be able to provide a free and easily accessable pprogram to the masses to improve the user experience by boosing the pcs performance using the disabled componentes of the factory made pcs.
 
@@ -56,34 +56,34 @@ Project Name- Performance Enhancer
 
 3.     Constraints 
 
-	There are many other programs out there giving the same functions but are not free as we have to pay to get that software, and the budgetting for the development of the program .
+	There are many other programs out there giving the same functions but are not free as we have to pay to get that software, and the budgetting for the development of the program.
 
 4.      Opportunities 
 
-1. 	In spite of the obstacles we have, this project has strength from 
+	 	In spite of the obstacles we have, this project has strength from. 
 
-	a) Lightweight software
+		a) Lightweight software.
 
-	b) Free to use
+		b) Free to use.
 
-	c) Completely customisable 
+		c) Completely customisable. 
+	
+		d) It is very helpful to people who cant afford a good pc. 
 
-	d) It is very helpful to people who cant afford a good pc 
-
-	e) the coading is stable as the coding is done in processing.
+		e) The coding is stable as the coding is done in processing.
 
 5.      Users 
 
-	The users are between 18-28 .  
+	The users are between 18-28.  
 
 **d. User Interviews & observations**
 
 
 1.      Users
 
-	Aged between 18 -28
+	Aged between 18 -28.
 
-2.      Potential users
+2.      Potential Users
 
 	Multimedia students, and overclockers and people who use heavy software.
 
@@ -101,7 +101,7 @@ Project Name- Performance Enhancer
 
 6.     Motivations
 
-	Users don’t have to worry about having to lose out on the performance of their device they paid for, its free and easily accessable , easy to insall and set the setting , easy to use as the ui is very simple.
+	Users don’t have to worry about having to lose out on the performance of their device they paid for, its free and easily accessable , easy to insall and set the setting , easy to use as the UI is very simple.
 
 7.     Environments
 
@@ -121,19 +121,19 @@ Project Name- Performance Enhancer
 
 **a. Personas**
 
-	Name - Adam
+	Name - Adam.
 
-	Age - 19
+	Age - 19.
 
-	Gender - Male 
+	Gender - Male. 
 
-	Occupation– Student
+	Occupation– Student.
 
-	Faculty – Faculty of Creative Multimedia
+	Faculty – Faculty of Creative Multimedia.
 
-	Status – Active
+	Status – Active.
 
-	Favourite quote - “Have patience. All things are difficult before they become easy.”  - Saadi 
+	Favourite Quote - “Have patience. All things are difficult before they become easy.”  - Saadi. 
 
 	Bio 
 
@@ -142,15 +142,15 @@ Project Name- Performance Enhancer
 **1. Patterns in user and customer behaviours**
 
 
-	Pattern user 
+	Pattern user. 
 
                                
 
-	Lazy 
+	Lazy. 
   
-	Sleeps late
+	Sleeps late.
 
-	Likes to discover new things
+	Likes to discover new things.
 
 
 
@@ -178,7 +178,7 @@ In the classroom, the technician will have uploaded our program on the lab compu
 
 **6. Tools**
 
-	Computer – Processing, github
+	Computer – Processing, github.
 
 **7. Challenges**
 
@@ -188,15 +188,15 @@ In the classroom, the technician will have uploaded our program on the lab compu
 
 **b. Other Models**
 
-	Name - College Students
+	Name - College Students.
 
-	Age - 18 years old to 21 years old
+	Age - 18 years old to 21 years old.
 
-	Gender - Male and Female
+	Gender - Male and Female.
 
-	Occupation – Student
+	Occupation – Student.
 
-	Status – very active 
+	Status – very active. 
 
  
 
@@ -224,7 +224,7 @@ Week 14
 
 **2. Environments** 
 
-	Classroom, lab
+	Classroom, lab.
 
 **3. Artifacts**
 
@@ -246,36 +246,41 @@ Week 14
 
 **b. Requirements**
 
-1.	Functional and data needs – The pc’s hardware specification and its full run potential compared to the current run potential  
+1.	Functional and data needs – The pc’s hardware specification and its full run potential compared to the current run potential.  
 	
-2.	User mental models – between the ages of 18-21
+2.	User mental models – between the ages of 18-21.
 	
-3.	Design imperatives – translucent overlay over the user’s desktop
+3.	Design imperatives – translucent overlay over the user’s desktop.
 
-4.	Product vision - To be able to unlock the full potential of the pc
+4.	Product vision - To be able to unlock the full potential of the pc.
 	
-5.	Business requirements – adverts online
+5.	Business requirements – adverts online.
 
-6.	Technology – processing, github
+6.	Technology – processing, github.
 
 *4. Design Framework*
 
 **a. Elements**
 
-1.	Deﬁne manifestations of information and functionality 1. Information - data collected from the computer 2. form factor - wide 3. Posture - translucent overlay 4. Input method - slider mouse input.
+	Deﬁne manifestations of information and functionality
+	
+	1. Information - data collected from the computer
+	2. form factor - wide 
+	3. Posture - translucent overlay
+	4. Input method - slider mouse input.
 
 
 *1.  functional and data elements*
 
-•	Information - so that the user know how his computer is performing 
+•	Information - so that the user know how his computer is performing. 
 
-•	Functions – to display the current performance of the pc 
+•	Functions – to display the current performance of the pc. 
 
-•	Mechanisms – the hardware’s performance ratios are used
+•	Mechanisms – the hardware’s performance ratios are used.
 
-•	Actions – the program overwrites default config files in the system to let the user have the full capability of the hardware 
+•	Actions – the program overwrites default config files in the system to let the user have the full capability of the 		hardware. 
 
-•	Domain object models – service app 
+•	Domain object models – service app. 
 
 **b. Framework**
 
@@ -284,8 +289,6 @@ Week 14
 *1. Sketch*
 
 **i.	if your project is a design product**
-
-a.	Your sketch must be a wireframe.
 
 **Front Page**
 https://cloud.githubusercontent.com/assets/20385650/18851410/703de456-846e-11e6-98fd-7dcdb48a5c96.jpg
@@ -305,10 +308,6 @@ https://cloud.githubusercontent.com/assets/20385650/18851414/7047cf66-846e-11e6-
 **Computer Temperature
 https://cloud.githubusercontent.com/assets/20385650/18851415/704839ce-846e-11e6-8d97-7b761928676a.jpg
 
-
-**ii.	if your project is a installation project**
-
-a.	Your sketch must be a installation sketch.
 
 **iii.	Must have**
 
