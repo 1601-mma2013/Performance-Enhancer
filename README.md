@@ -34,11 +34,11 @@ Rainmeter, unpark cpu, Samurize, RocketDock, Emerge Desktop, AutoHotKey, Fences,
 
 4.     Product Portfolio Plans 
 
-This is a product is a very simple and easy to use program wthat is free to download off the web, i ts is very handy when it comes to unsing old pcs that dont have thwe prosessing power to a high end pc. or even for people with a tight budget and cannot buy a expensive pc.
+This is a product is a very simple and easy to use program that is free to download off the web, it is very handy when it comes to using old pcs that don't have the processing power to a high end pc or even for people with a tight budget and cannot buy a expensive pc.
 
 5.     Competitors 
 
-Steam Game Overlay, Overwolfw, GKrellM,Bleachbit, Glary Utilities, Clean Master, Wise Registry Cleaner, Iobit Advanced Systemcare, Wise Disk Cleaner, Wise Care 365, Auslogics Boostspeed.
+Steam Game Overlay, Overwolfw, GKrellM, Bleachbit, Glary Utilities, Clean Master, Wise Registry Cleaner, Iobit Advanced Systemcare, Wise Disk Cleaner, Wise Care 365, Auslogics Boostspeed.
 
 6.     Relevant Technologies 
 
@@ -48,7 +48,7 @@ Xbox 360, Playstation, Wii, iOS devices.
 
 1.     Product{project} Vision 
 
-To be able to provide a free and easily accessable pprogram to the masses to improve the user experience by boosing the pcs performance using the disabled componentes of the factory made pcs.
+To be able to provide a free and easily accessible program to the masses to improve the user experience by boosing the pcs performance using the disabled componentes of the factory made pcs.
 
 2.     Risk
 
@@ -97,11 +97,11 @@ Gets frustrated when the quality of the performance of the hardware is not up to
 
 5.      Aptitudes
 
-Users can use this application to set a benchmark for their device to perform and just let it run in the background while the do their work, the program will not disturb the user untill the high load is been taken care of.
+Users can use this application to set a benchmark for their device to perform and just let it run in the background while they do their work, the program will not disturb the user until the high load has been taken care of.
 
 6.     Motivations
 
-Users don’t have to worry about having to lose out on the performance of their device they paid for, its free and easily accessable , easy to insall and set the setting , easy to use as the UI is very simple.
+Users don’t have to worry about having to lose out on the performance of their device they paid for, it's free and easily accessable , easy to insall and set the setting, easy to use as the UI is very simple.
 
 7.     Environments
 
@@ -113,7 +113,7 @@ Processing, Github, c++.
 
 9.     Challenges
 
-To make the program run smoothly with no delay in processing the data being fed into pur program to set an optimal benchmark to pc to achieve. the users dont know much abt overclocking and it could cause their pc to burn up. 
+To make the program run smoothly with no delay in processing the data being fed into pur program to set an optimal benchmark to pc to achieve. The users dont know much about overclocking and it could cause their pc to burn up. 
 
  
 
@@ -121,17 +121,17 @@ To make the program run smoothly with no delay in processing the data being fed 
 
 **a. Personas**
 
-Name - Adam.
+Name - Adam
 
-Age - 19.
+Age - 19
 
-Gender - Male. 
+Gender - Male 
 
-Occupation– Student.
+Occupation – Student
 
-Faculty – Faculty of Creative Multimedia.
+Faculty – Faculty of Creative Multimedia
 
-Status – Active.
+Status – Active
 
 Favourite Quote - “Have patience. All things are difficult before they become easy.”  - Saadi. 
 
