@@ -120,7 +120,6 @@ To make the program run smoothly with no delay in processing the data being fed 
 *2. Modeling*
 
 **a. Personas**
-
 	Name - Adam.
 
 	Age - 19.
@@ -142,52 +141,51 @@ To make the program run smoothly with no delay in processing the data being fed 
 **1. Patterns in user and customer behaviours**
 
 
-	Pattern user. 
+Pattern user. 
 
                                
 
-	Lazy. 
+Lazy. 
   
-	Sleeps late.
+Sleeps late.
 
-	Likes to discover new things.
+Likes to discover new things.
 
 
 
 **Customer behaviour** 
 
-	Unsatisfied with their pc's performance and want to reamp the preformance output without having to buy new hardware. 
+Unsatisfied with their pc's performance and want to reamp the preformance output without having to buy new hardware. 
 
 **2. Attitudes**
 
-	Easy going, friendly, adventurous, hardworking. 
+Easy going, friendly, adventurous, hardworking. 
 
 **3. Aptitudes**
 
-	Wants PC to run smoothly without any glitch. 
+Wants PC to run smoothly without any glitch. 
 
 **4. Goals**
 
-	Let the user have the ability to know the fullest potential of their computer.
+Let the user have the ability to know the fullest potential of their computer.
 
 **5.Environments**
 
-	At home in the user’s room, the user will always be updated about the capability of their pc when they choose to play games or do their assignment.
+At home in the user’s room, the user will always be updated about the capability of their pc when they choose to play games or do their assignment.
 
 In the classroom, the technician will have uploaded our program on the lab computers for students and lecturers to use. 
 
 **6. Tools**
 
-	Computer – Processing, github.
+Computer – Processing, github.
 
 **7. Challenges**
 
-	To make the program run smoothly with no delay in the application.
+To make the program run smoothly with no delay in the application.
 
 
 
 **b. Other Models**
-
 	Name - College Students.
 
 	Age - 18 years old to 21 years old.
@@ -224,18 +222,17 @@ Week 14
 
 **2. Environments** 
 
-	Classroom, lab.
+Classroom, lab.
 
 **3. Artifacts**
 
-	Rainmeter,Desktop Theme Manager.
+Rainmeter,Desktop Theme Manager.
 
 *II. Synthesis*
 
-	*3. Requirements Definition*
+*3. Requirements Definition*
 
 **a. Context Scenarios**
-
 	1-Adam is a student at Multimedia University. He uses his computer to study and to complete his various assignments. To complete his various assignments, he needs to use some high-end software that requires him to use his computer to its maximum potential. This high-end software uses up a lot of memory and requires a high performance pc in order for it to be stable. Adam boots up the application to check on the performance of his computer. He sees a few applications running in the background and closes it. Adam then adjusts some settings on the application and his computer immediately performs faster than before. Adam is then able to open up the software to do his assignments. 
 
 	2-Adam is a student studying in mmu under loan from the governmemt, he doesn't have a lot of money to invest into high performance pc that costs a lot. he still needs to run his high end softwares to pass up his assignments, with the program adam can use any underclocked pc which costs half the price and can unlock the full potential to use the high end softwares.
@@ -261,7 +258,6 @@ Week 14
 *4. Design Framework*
 
 **a. Elements**
-
 	Deﬁne manifestations of information and functionality
 	
 	1. Information - data collected from the computer
@@ -283,7 +279,6 @@ Week 14
 •Domain object models – service app. 
 
 **b. Framework**
-
 	Design overall structure of user experience 
 
 *1. Sketch*
@@ -320,7 +315,6 @@ c.	Arrangements of containers & components
 
 
 *2.	Key path Scenario*
-
 	The user downloads the freeware on their pc. Once they install it, they will have to restart it because the original config files have to be overwritten. Once rebooted, they will have few new UI’s on their desktop. By using these interfaces, the user can set the range of performance they want to achieve. Once the optimal settings are set, the software will unlock the device's full potential and give the user the desired performance range.  
 
 
