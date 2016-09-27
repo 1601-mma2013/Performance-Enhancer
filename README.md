@@ -263,7 +263,7 @@ Rainmeter,Desktop Theme Manager
 
 **a. Elements**
 
-1.	Deﬁne manifestations of information and functionality 1. Information 2. form factor 3. Posture - translucent overlay 4. Input method - slider mouse input.
+1.	Deﬁne manifestations of information and functionality 1. Information - data collected from the computer 2. form factor - wide 3. Posture - translucent overlay 4. Input method - slider mouse input.
 
 
 *1.  functional and data elements*
@@ -287,8 +287,6 @@ Design overall structure of user experience
 **i.	if your project is a design product**
 
 a.	Your sketch must be a wireframe.
-
-(PLEASE RIGHT-CLICK TO VIEW)
 
 **Front Page**
 https://cloud.githubusercontent.com/assets/20385650/18851410/703de456-846e-11e6-98fd-7dcdb48a5c96.jpg
