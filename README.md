@@ -138,7 +138,7 @@ Favourite quote - “Have patience. All things are difficult before they become 
 
 Bio 
 
-Adam is a student at Multimedia University. He uses his laptop to study and to complete his various assignments. He is financially unstable and is not able to afford a powerful laptop for his media needs. But he has a laptop that is functioning at a capability lower than its actual capability which makes him angry, he would like to use the full potential of the pc and performance he paid for. 
+Adam is a student at Multimedia University. He uses his laptop to study and to complete his various assignments. He is financially unstable and is not able to afford a powerful laptop for his media needs. But he has a laptop that is functioning at a capability lower than its actual capability which makes him angry. He would like to use the full potential of the pc and performance he paid for. 
 
 **1. Patterns in user and customer behaviours**
 
