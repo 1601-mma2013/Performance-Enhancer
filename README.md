@@ -56,7 +56,7 @@ Not knowing the full capabilities of the machine the user is using as the person
 
 3.     Constraints 
 
-There are many other programs out there giving the same functions but are not free as we have to pay to get that software, and the budgetting for the development of the program.
+There are many other programs out there giving the same functions but are not free as we have to pay to get that software, and the budgeting for the development of the program.
 
 4.      Opportunities 
 
@@ -101,7 +101,7 @@ Users can use this application to set a benchmark for their device to perform an
 
 6.     Motivations
 
-Users don’t have to worry about having to lose out on the performance of their device they paid for, it's free and easily accessible , easy to insall and set the setting, easy to use as the UI is very simple.
+Users don’t have to worry about having to lose out on the performance of their device they paid for, it's free and easily accessible , easy to install and set the setting, easy to use as the UI is very simple.
 
 7.     Environments
 
