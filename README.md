@@ -78,7 +78,6 @@ the users are between 18-28 .
 
 **d. User Interviews & observations**
 
-Understand user needs and behavior and describe it. Find various aspect of audience/customer
 
 1.     Users
 
