@@ -287,7 +287,7 @@ Front Page
 https://cloud.githubusercontent.com/assets/20385650/18894971/b990d34a-8548-11e6-9b51-a54c2cfec276.jpg
 
 Computer Data
-https://cloud.githubusercontent.com/assets/20385650/18851411/703dfa22-846e-11e6-9305-90461e2953f7.jpg
+https://cloud.githubusercontent.com/assets/20385650/18896110/95bc526a-8551-11e6-92b5-c9c3cd2032c2.jpg
 
 Second-Defragment file
 https://cloud.githubusercontent.com/assets/20385650/18894995/e2b62cfc-8548-11e6-9294-0b07cd42648e.jpg
