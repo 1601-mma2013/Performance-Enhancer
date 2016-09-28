@@ -296,7 +296,7 @@ Scan Virus
 https://cloud.githubusercontent.com/assets/20385650/18894979/c2104dc0-8548-11e6-8734-d1f10bc15d81.jpg
 
 Reminder
-https://cloud.githubusercontent.com/assets/20385650/18851414/7047cf66-846e-11e6-91b9-bfcc8c8f1595.jpg
+https://cloud.githubusercontent.com/assets/20385650/18896677/23b38d14-8556-11e6-9407-4f628d4b9d82.jpg
 
 Computer Temperature
 https://cloud.githubusercontent.com/assets/20385650/18851415/704839ce-846e-11e6-8d97-7b761928676a.jpg
@@ -305,7 +305,7 @@ https://cloud.githubusercontent.com/assets/20385650/18851415/704839ce-846e-11e6-
 **iii.	Must have**
 
 a.	Groupings and hierarchy
-https://cloud.githubusercontent.com/assets/20385650/18896312/4de0c8ac-8553-11e6-8ad9-68f44ae01101.png
+https://cloud.githubusercontent.com/assets/20385650/18896660/0611f2b4-8556-11e6-8bcf-7b7cce22ca25.png
 
 b.	Territories of each functional & design elements
 
