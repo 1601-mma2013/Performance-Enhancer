@@ -305,8 +305,10 @@ https://cloud.githubusercontent.com/assets/20385650/18851415/704839ce-846e-11e6-
 **iii.	Must have**
 
 a.	Groupings and hierarchy
+https://cloud.githubusercontent.com/assets/20385650/18896312/4de0c8ac-8553-11e6-8ad9-68f44ae01101.png
 
 b.	Territories of each functional & design elements
+
 
 c.	Arrangements of containers & components
 
