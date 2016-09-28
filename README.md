@@ -309,6 +309,7 @@ https://cloud.githubusercontent.com/assets/20385650/18896660/0611f2b4-8556-11e6-
 
 b.	Territories of each functional & design elements
 
+The design element is to keep it simple and only used small space. The theme color is blue, green, pink.
 
 c.	Arrangements of containers & components
 
