@@ -299,7 +299,7 @@ Reminder
 https://cloud.githubusercontent.com/assets/20385650/18896677/23b38d14-8556-11e6-9407-4f628d4b9d82.jpg
 
 Computer Temperature
-https://cloud.githubusercontent.com/assets/20385650/18851415/704839ce-846e-11e6-8d97-7b761928676a.jpg
+https://cloud.githubusercontent.com/assets/20385650/18896984/c5359bda-8558-11e6-9c29-1bcbe4d4f5ba.jpg
 
 
 **iii.	Must have**
